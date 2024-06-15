@@ -5,3 +5,5 @@ feature B
 feature A
 feature A
 feature A
+feature C
+feature C
