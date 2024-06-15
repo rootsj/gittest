@@ -4,9 +4,11 @@ feature B
 feature B
 feature A
 feature A
-feature A + feature C
+feature A + feature C + feature F
 feature C
 feature C
 feature D
 feature D
 feature D
+feature F
+feature F
