@@ -12,3 +12,6 @@ feature D
 feature D
 feature F
 feature F
+feature E
+feature E
+feature E
