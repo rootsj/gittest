@@ -7,3 +7,6 @@ feature A
 feature A + feature C
 feature C
 feature C
+feature D
+feature D
+feature D
