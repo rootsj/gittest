@@ -1,4 +1,4 @@
-init commit
+commit list
 feature B
 feature B
 feature B
