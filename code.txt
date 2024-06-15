@@ -4,3 +4,6 @@ feature A
 feature A + feature C
 feature C
 feature C
+feature E
+feature E
+feature E
